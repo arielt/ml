@@ -1,4 +1,4 @@
-# Machine learning
+# Machine Learning
 
 Artificial Intelligence (AI) is a study of intelligent agents, that can perceive it's environment and take actions to succeed at some goals.
 

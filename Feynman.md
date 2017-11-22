@@ -15,7 +15,7 @@ Write down the explanation of the topic, as if you were teaching it to someone e
 
 ## Step 3
 
-Review items you've pinpointed in the previous step. Use books, white papers, any other material till you get to understand it and repeat step 2.
+Review items you've pinpointed in the previous step. Use books, white papers, any other material till you get to understand them and repeat step 2.
 
 ## Step 4
 
